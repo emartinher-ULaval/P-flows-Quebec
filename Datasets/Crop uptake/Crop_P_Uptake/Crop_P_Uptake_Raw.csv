@@ -1,0 +1,121 @@
+Crop,Plant part,Dry wt. lb/bu,Typical yield/acre,Unit,N (%wt),P (%wt),K (%wt),Ca (%wt),Mg (%wt),S (%wt),Cu (%wt),Mn (%wt),Zn (%wt)
+Barley,Grain,48,50,bushel,1.82,0.34,0.43,0.05,0.1,0.16,0.0016,0.0016,0.0031
+Barley,Straw/Stover,,1,US ton,0.75,0.11,1.25,0.4,0.1,0.2,0.0005,0.016,0.0025
+Buckwheat,Grain,48,30,bushel,1.65,0.31,0.45,0.09,,,0.0009,0.0034,
+Buckwheat,Straw/Stover,,0.5,US ton,0.78,0.05,2.26,1.4,,0.01,,,
+Corn,Grain,56,120,bushel,1.61,0.28,0.4,0.02,0.1,0.12,0.0007,0.0011,0.0018
+Corn,Straw/Stover,,4.5,US ton,1.11,0.2,1.34,0.29,0.22,0.16,0.0005,0.0166,0.0033
+Oats,Grain,32,80,bushel,1.95,0.34,0.49,0.08,0.12,0.2,0.0012,0.0047,0.002
+Oats,Straw/Stover,,2,US ton,0.63,0.16,1.66,0.2,0.2,0.23,0.0008,0.003,0.0072
+Rice,Grain,45,122.22,bushel,1.39,0.24,0.23,0.08,0.11,0.08,0.003,0.0022,0.0019
+Rice,Straw/Stover,,2.5,US ton,0.6,0.09,1.16,0.18,0.1,,,0.0316,
+Rye,Grain,56,30,bushel,2.08,0.26,0.49,0.12,0.18,0.42,0.0012,0.0131,0.0018
+Rye,Straw/Stover,,1.5,US ton,0.5,0.12,0.69,0.27,0.07,0.1,0.03,0.0047,0.0023
+Sorghum,Grain,56,60,bushel,1.67,0.36,0.42,0.13,0.17,0.17,0.0003,0.0013,0.0013
+Sorghum,Straw/Stover,,3,US ton,1.08,0.15,1.31,0.48,0.3,0.13,,0.0116,
+Wheat,Grain,60,40,bushel,2.08,0.62,0.52,0.04,0.25,0.13,0.0013,0.0038,0.0058
+Wheat,Straw/Stover,,1.5,US ton,0.67,0.07,0.97,0.2,0.1,0.17,0.0003,0.0053,0.0017
+Flax,Grain,56,15,bushel,4.09,0.55,0.84,0.23,0.43,0.25,,0.0061,
+Flax,Straw/Stover,,1.75,US ton,1.24,0.11,1.75,0.72,0.31,0.27,,,
+Oil palm,Grain,,22000,lb,1.13,0.26,0.16,0.19,0.09,,0.0043,0.0225,
+Oil palm,Straw/Stover,,5,US ton,1.07,0.49,1.69,,0.36,,,,
+Peanuts,Grain,,2800,lb,3.6,0.17,0.5,0.04,0.12,0.24,0.0008,0.004,
+Peanuts,Straw/Stover,,2.2,US ton,2.33,0.24,1.75,1,0.38,0.36,,0.0051,
+Rapeseed,Grain,50,35,bushel,3.6,0.79,0.76,,0.66,,,,
+Rapeseed,Straw/Stover,,3,US ton,4.48,0.43,3.37,1.47,0.06,0.68,0.0001,0.0008,
+Soybeans,Grain,60,35,bushel,6.25,0.64,1.9,0.29,0.29,0.17,0.0017,0.0021,0.0017
+Soybeans,Straw/Stover,,2,US ton,2.25,0.22,1.04,1,0.45,0.25,0.001,0.0115,0.0038
+Sunflower,Grain,25,44,bushel,3.57,1.71,1.11,0.18,0.34,0.17,,0.0022,
+Sunflower,Straw/Stover,,4,US ton,1.5,0.18,2.92,1.73,0.09,0.04,,0.0241,
+Cotton,Grain,1,600,lb,2.67,0.58,0.83,0.13,0.27,0.2,0.004,0.0073,0.0213
+Cotton,Straw/Stover,,0.5,US ton,1.75,0.22,1.45,1.4,0.4,0.75,,,
+Alfalfa,Forage,,4,US ton,2.25,0.22,1.87,1.4,0.26,0.24,0.0008,0.0055,0.0053
+Bahiagrass,Forage,,3,US ton,1.27,0.13,1.73,0.43,0.25,0.19,,,
+Big bluestem,Forage,,3,US ton,0.99,0.85,1.75,,0.2,,,,
+Birdsfoot trefoil,Forage,,3,US ton,2.49,0.22,1.82,1.75,0.4,,,,
+Bluegrass-pastd,Forage,,2,US ton,2.91,0.43,1.95,0.53,0.23,0.66,0.0014,0.0075,0.002
+Bromegrass,Forage,,5,US ton,1.87,0.21,2.55,0.47,0.19,0.19,0.0008,0.0052,
+Clover-grass,Forage,,6,US ton,1.52,0.27,1.69,0.92,0.28,0.15,0.0008,0.0106,
+Dallisgrass,Forage,,3,US ton,1.92,0.2,1.72,0.56,0.4,,,,
+Guineagrass,Forage,,10,US ton,1.25,0.44,1.89,,0.43,0.2,,,
+Bermudagrass,Forage,,8,US ton,1.88,0.19,1.4,0.37,0.15,0.22,0.0013,,
+Indiangrass,Forage,,3,US ton,1,0.85,1.2,0.15,,,,,
+Lespedeza,Forage,,3,US ton,2.33,0.21,1.06,1.12,0.21,0.33,,0.0152,
+Little bluestem,Forage,,3,US ton,1.1,0.85,1.45,,0.2,,,,
+Orchardgrass,Forage,,6,US ton,1.47,0.2,2.16,0.3,0.24,0.26,0.0017,0.0078,
+Pangolagrass,Forage,,10,US ton,1.3,0.47,1.87,,0.29,0.2,,,
+Paragrass,Forage,,10.5,US ton,0.82,0.39,1.59,0.39,0.33,0.17,,,
+Red clover,Forage,,2.5,US ton,2,0.22,1.66,1.38,0.34,0.14,0.0008,0.0108,0.0072
+Reed canarygrass,Forage,,6.5,US ton,1.35,0.18,,0.36,,,,,
+Ryegrass,Forage,,5,US ton,1.67,0.27,1.42,0.65,0.35,,,,
+Switchgrass,Forage,,3,US ton,1.15,0.1,1.9,0.28,0.25,,,,
+Tall fescue,Forage,,3.5,US ton,1.97,0.2,2,0.3,0.19,,,,
+Timothy,Forage,,2.5,US ton,1.2,0.22,1.58,0.36,0.12,0.1,0.0006,0.0062,0.004
+Wheatgrass,Forage,,1,US ton,1.42,0.27,2.68,0.36,0.24,0.11,,,
+Leaves,Leaves,,,,0.06,0.46,,,,,,,
+Northern hardwoods,Wood,,50,US ton,0.2,0.02,0.1,0.29,,,,,
+Douglas fir,Wood,,76,US ton,0.16,,,,,,,,
+Apples,Fruit,,12,US ton,0.13,0.02,0.16,0.03,0.02,0.04,0.0001,0.0001,0.0001
+Bananas,Fruit,,9900,lb,0.19,0.02,0.54,0.23,0.3,,,,
+Cantaloupe,Fruit,,17500,lb,0.22,0.09,0.46,,0.34,,,,
+Coconuts,Fruit,,0.5,US ton,,,,,,,,,
+Grapes,Fruit,,12,US ton,0.28,0.1,0.5,,0.04,,,,
+Oranges,Fruit,,54000,lb,0.2,0.02,0.21,0.06,0.02,0.02,0.0004,0.0001,0.004
+Peaches,Fruit,,15,US ton,0.12,0.03,0.19,0.01,0.03,0.01,,,0.001
+Pineapple,Fruit,,17,US ton,0.43,0.35,1.68,0.02,0.18,0.04,,,
+Pears,Fruit,,,,,0.01,,,,,,,
+Plums and prunes,Fruit,,,,,0.02,,,,,,,
+Cherries (sweet),Fruit,,,,,0.02,,,,,,,
+Cherries (sour),Fruit,,,,,0.02,,,,,,,
+Apricots,Fruit,,,,,0.023,,,,,,,
+Strawberries,Fruit,,,,,0.023,,,,,,,
+Raspberries,Fruit,,,,,0.03,,,,,,,
+Blueberries,Fruit,,,,,0.012,,,,,,,
+Tomatoes,Vegetable,,22,US ton,0.3,0.04,0.33,0.02,0.03,0.04,0.0002,0.0003,0.0001
+Alfalfa haylage,Silage,,5,US ton,2.79,0.33,2.32,0.97,0.33,0.36,0.0009,0.0052,
+Corn silage,Silage,,7,US ton,1.1,0.25,1.09,0.36,0.18,0.15,0.0005,0.007,
+Forage sorghum,Silage,,6,US ton,1.44,0.19,1.02,0.37,0.31,0.11,0.0032,0.0045,
+Oat haylage,Silage,,4,US ton,1.6,0.28,0.94,0.31,0.24,0.18,,,
+Sorghum-sudan,Silage,,5,US ton,1.36,0.16,1.45,0.43,0.34,0.04,,0.0091,
+Sugarcane,Crop,,37,US ton,0.16,0.04,0.37,0.05,0.04,0.04,,,
+Sugar beets,Beet,,20,US ton,0.2,0.03,0.14,0.11,0.08,0.03,0.0001,0.0025,
+Sugar beets,Top,,,,0.43,0.04,1.03,0.18,0.19,0.1,0.0002,0.001,
+Tobacco,Crop,,2100,lb,3.75,0.33,4.98,3.75,0.9,0.7,0.0015,0.0275,0.0035
+Bluegrass,Grass,,2,US ton,2.91,0.43,1.95,0.53,0.23,0.66,0.0014,0.0075,0.002
+Bentgrass,Grass,,2.5,US ton,3.1,0.41,2.21,0.65,0.27,0.21,,,
+Bermudagrass,Grass,,4,US ton,1.88,0.19,1.4,0.37,0.15,0.22,0.0013,,
+Bell peppers,Vegetable,,9,US ton,0.4,0.12,0.49,,0.04,,,,
+Dry beans,Vegetable,,0.5,US ton,3.13,0.45,0.86,0.08,0.08,0.21,0.0008,0.0013,0.0025
+Cabbage,Vegetable,,20,US ton,0.33,0.04,0.27,0.05,0.02,0.11,0.0001,0.0003,0.0002
+Carrots,Vegetable,,13,US ton,0.19,0.04,0.25,0.05,0.02,0.02,0.0001,0.0004,
+Cassava,Vegetable,,7,US ton,0.4,0.13,0.63,0.26,0.13,,,,
+Celery,Vegetable,,27,US ton,0.17,0.09,0.45,,,,,,
+Cucumbers,Vegetable,,10,US ton,0.2,0.07,0.33,,0.02,,,,
+Lettuce (heads),Vegetable,,14,US ton,0.23,0.08,0.46,,,,,,
+Onions,Vegetable,,18,US ton,0.3,0.06,0.22,0.07,0.01,0.12,0.0002,0.005,0.0021
+Peas,Vegetable,,1.5,US ton,3.68,0.4,0.9,0.08,0.24,0.24,,,
+Potatoes,Vegetable,,14.5,US ton,0.33,0.06,0.52,0.01,0.03,0.03,0.0002,0.0004,0.0002
+Snap beans,Vegetable,,3,US ton,0.88,0.26,0.96,0.05,0.1,0.11,0.0005,0.0009,
+Sweet corn,Vegetable,,5.5,US ton,0.89,0.24,0.58,,0.07,0.06,,,
+Sweet potatoes,Vegetable,,7,US ton,0.3,0.04,0.42,0.03,0.06,0.04,0.0002,0.0004,0.0002
+Table beets,Vegetable,,15,US ton,0.26,0.04,0.28,0.03,0.02,0.02,0.0001,0.0007,
+Pumpkin,Vegetable,,,,,1.17,,,,,,,
+Asparagus,Vegetable,,,,,0.05,,,,,,,
+Broccoli,Vegetable,,,,,0.055,,,,,,,
+Cauliflower,Vegetable,,,,,0.043,,,,,,,
+Rutabaga,Vegetable,,,,,0.055,,,,,,,
+Radishes,Vegetable,,,,,0.02,,,,,,,
+Cattails,Wetland plant,,8,US ton,1.02,0.18,,,,,,,
+Rushes,Wetland plant,,1,US ton,1.67,,,,,,,,
+Saltgrass,Wetland plant,,1,US ton,1.44,0.27,0.62,,,,,,
+Sedges,Wetland plant,,0.8,US ton,1.79,0.26,,0.66,,,,,
+Water hyacinth,Wetland plant,,,,,3.65,0.87,3.12,,,,,
+Duckweed,Wetland plant,,,,3.36,1,2.13,,,,,,
+Arrowweed,Wetland plant,,,,2.74,,,,,,,,
+Phragmites,Wetland plant,,,,1.83,0.1,0.52,,,,,,
+Lentils,Grain,,904,kg/ha,,0.4,,,,,,,
+Lentils,Straw/Stover,,1269,kg/ha,,0.165,,,,,,,
+Chickpeas,Grain,,2000,kg/ha,,0.4,,,,,,,
+Chickpeas,Straw/Stover,,1565,kg/ha,,0.11,,,,,,,
+Hemp,Grain,,1315,kg/ha,,0.63,,,,,,,
+Hemp,Straw/Stover,,3226,kg/ha,,0.21,,,,,,,
