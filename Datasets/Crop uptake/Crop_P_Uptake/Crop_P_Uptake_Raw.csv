@@ -59,7 +59,7 @@ Apples,Fruit,,12,US ton,0.13,0.02,0.16,0.03,0.02,0.04,0.0001,0.0001,0.0001
 Bananas,Fruit,,9900,lb,0.19,0.02,0.54,0.23,0.3,,,,
 Cantaloupe,Fruit,,17500,lb,0.22,0.09,0.46,,0.34,,,,
 Coconuts,Fruit,,0.5,US ton,,,,,,,,,
-Grapes,Fruit,,12,US ton,0.28,0.1,0.5,,0.04,,,,
+Grapes,Fruit,,5100,kg/ha,0.28,0.1,0.5,,0.04,,,,
 Oranges,Fruit,,54000,lb,0.2,0.02,0.21,0.06,0.02,0.02,0.0004,0.0001,0.004
 Peaches,Fruit,,15,US ton,0.12,0.03,0.19,0.01,0.03,0.01,,,0.001
 Pineapple,Fruit,,17,US ton,0.43,0.35,1.68,0.02,0.18,0.04,,,
@@ -68,43 +68,47 @@ Plums and prunes,Fruit,,,,,0.02,,,,,,,
 Cherries (sweet),Fruit,,,,,0.02,,,,,,,
 Cherries (sour),Fruit,,,,,0.02,,,,,,,
 Apricots,Fruit,,,,,0.023,,,,,,,
-Strawberries,Fruit,,,,,0.023,,,,,,,
-Raspberries,Fruit,,,,,0.03,,,,,,,
-Blueberries,Fruit,,,,,0.012,,,,,,,
-Tomatoes,Vegetable,,22,US ton,0.3,0.04,0.33,0.02,0.03,0.04,0.0002,0.0003,0.0001
+Cranberries,Fruit,,23000,kg/ha,,0.00645,,,,,,,
+Strawberries,Fruit,,9400,kg/ha,,0.023,,,,,,,
+Raspberries,Fruit,,3100,kg/ha,,0.03,,,,,,,
+Blueberries,Fruit,,1200,kg/ha,,0.012,,,,,,,
+Tomatoes,Vegetable,,23600,kg/ha,0.3,0.04,0.33,0.02,0.03,0.04,0.0002,0.0003,0.0001
 Alfalfa haylage,Silage,,5,US ton,2.79,0.33,2.32,0.97,0.33,0.36,0.0009,0.0052,
 Corn silage,Silage,,7,US ton,1.1,0.25,1.09,0.36,0.18,0.15,0.0005,0.007,
 Forage sorghum,Silage,,6,US ton,1.44,0.19,1.02,0.37,0.31,0.11,0.0032,0.0045,
 Oat haylage,Silage,,4,US ton,1.6,0.28,0.94,0.31,0.24,0.18,,,
 Sorghum-sudan,Silage,,5,US ton,1.36,0.16,1.45,0.43,0.34,0.04,,0.0091,
 Sugarcane,Crop,,37,US ton,0.16,0.04,0.37,0.05,0.04,0.04,,,
-Sugar beets,Beet,,20,US ton,0.2,0.03,0.14,0.11,0.08,0.03,0.0001,0.0025,
+Sugar beets,Beet,,27800,kg/ha,0.2,0.03,0.14,0.11,0.08,0.03,0.0001,0.0025,
 Sugar beets,Top,,,,0.43,0.04,1.03,0.18,0.19,0.1,0.0002,0.001,
 Tobacco,Crop,,2100,lb,3.75,0.33,4.98,3.75,0.9,0.7,0.0015,0.0275,0.0035
 Bluegrass,Grass,,2,US ton,2.91,0.43,1.95,0.53,0.23,0.66,0.0014,0.0075,0.002
 Bentgrass,Grass,,2.5,US ton,3.1,0.41,2.21,0.65,0.27,0.21,,,
 Bermudagrass,Grass,,4,US ton,1.88,0.19,1.4,0.37,0.15,0.22,0.0013,,
-Bell peppers,Vegetable,,9,US ton,0.4,0.12,0.49,,0.04,,,,
+Bell peppers,Vegetable,,31400,kg/ha,0.4,0.12,0.49,,0.04,,,,
 Dry beans,Vegetable,,0.5,US ton,3.13,0.45,0.86,0.08,0.08,0.21,0.0008,0.0013,0.0025
-Cabbage,Vegetable,,20,US ton,0.33,0.04,0.27,0.05,0.02,0.11,0.0001,0.0003,0.0002
-Carrots,Vegetable,,13,US ton,0.19,0.04,0.25,0.05,0.02,0.02,0.0001,0.0004,
+Cabbage,Vegetable,,38100,kg/ha,0.33,0.04,0.27,0.05,0.02,0.11,0.0001,0.0003,0.0002
+Brussels sprouts,Vegetable,,10400,kg/ha,,0.056,,,,,,,
+Carrots,Vegetable,,34200,kg/ha,0.19,0.04,0.25,0.05,0.02,0.02,0.0001,0.0004,
 Cassava,Vegetable,,7,US ton,0.4,0.13,0.63,0.26,0.13,,,,
-Celery,Vegetable,,27,US ton,0.17,0.09,0.45,,,,,,
-Cucumbers,Vegetable,,10,US ton,0.2,0.07,0.33,,0.02,,,,
-Lettuce (heads),Vegetable,,14,US ton,0.23,0.08,0.46,,,,,,
-Onions,Vegetable,,18,US ton,0.3,0.06,0.22,0.07,0.01,0.12,0.0002,0.005,0.0021
-Peas,Vegetable,,1.5,US ton,3.68,0.4,0.9,0.08,0.24,0.24,,,
-Potatoes,Vegetable,,14.5,US ton,0.33,0.06,0.52,0.01,0.03,0.03,0.0002,0.0004,0.0002
-Snap beans,Vegetable,,3,US ton,0.88,0.26,0.96,0.05,0.1,0.11,0.0005,0.0009,
-Sweet corn,Vegetable,,5.5,US ton,0.89,0.24,0.58,,0.07,0.06,,,
+Celery,Vegetable,,34600,kg/ha,0.17,0.09,0.45,,,,,,
+Cucumbers,Vegetable,,31700,kg/ha,0.2,0.07,0.33,,0.02,,,,
+Lettuce (heads),Vegetable,,24900,kg/ha,0.23,0.08,0.46,,,,,,
+Spinach,Vegetable,,9900,kg/ha,,0.05,,,,,,,
+Onions,Vegetable,,48800,kg/ha,0.3,0.06,0.22,0.07,0.01,0.12,0.0002,0.005,0.0021
+Peas,Vegetable,,4600,kg/ha,3.68,0.4,0.9,0.08,0.24,0.24,,,
+Potatoes,Vegetable,,38710,kg/ha,0.33,0.06,0.52,0.01,0.03,0.03,0.0002,0.0004,0.0002
+Snap beans,Vegetable,,6200,kg/ha,0.88,0.26,0.96,0.05,0.1,0.11,0.0005,0.0009,
+Sweet corn,Vegetable,,10200,kg/ha,0.89,0.24,0.58,,0.07,0.06,,,
 Sweet potatoes,Vegetable,,7,US ton,0.3,0.04,0.42,0.03,0.06,0.04,0.0002,0.0004,0.0002
 Table beets,Vegetable,,15,US ton,0.26,0.04,0.28,0.03,0.02,0.02,0.0001,0.0007,
-Pumpkin,Vegetable,,,,,1.17,,,,,,,
-Asparagus,Vegetable,,,,,0.05,,,,,,,
-Broccoli,Vegetable,,,,,0.055,,,,,,,
-Cauliflower,Vegetable,,,,,0.043,,,,,,,
-Rutabaga,Vegetable,,,,,0.055,,,,,,,
-Radishes,Vegetable,,,,,0.02,,,,,,,
+Pumpkin,Vegetable,,19300,kg/ha,,1.17,,,,,,,
+Zucchini,Vegetable,,15000,kg/ha,,0.038,,,,,,,
+Asparagus,Vegetable,,3000,kg/ha,,0.05,,,,,,,
+Broccoli,Vegetable,,13300,kg/ha,,0.055,,,,,,,
+Cauliflower,Vegetable,,18600,kg/ha,,0.043,,,,,,,
+Rutabaga,Vegetable,,33200,kg/ha,,0.055,,,,,,,
+Radishes,Vegetable,,17600,kg/ha,,0.02,,,,,,,
 Cattails,Wetland plant,,8,US ton,1.02,0.18,,,,,,,
 Rushes,Wetland plant,,1,US ton,1.67,,,,,,,,
 Saltgrass,Wetland plant,,1,US ton,1.44,0.27,0.62,,,,,,
