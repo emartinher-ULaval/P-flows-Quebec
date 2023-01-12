@@ -1,0 +1,84 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Sheep statistics, supply and disposition of sheep and lambs","32100141","003-0094","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210014101",,"CURRENT - a cube available to the public and that is current","Annual","2000-01-01","2022-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Supply and disposition of sheep and lambs",,""
+"3","Survey date",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Eastern provinces","","2","1","",,
+"1","Western provinces","","9","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Quebec","[24]","7","2","",,
+"1","Ontario","[35]","8","2","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","British Columbia","[59]","13","9","",,
+"1","Canada","[11124]","1","","",,
+"2","Beginning inventory of sheep and lambs","","2","1","",1,
+"2","Lambs born","","3","1","",,
+"2","Interprovincial imports (net) of sheep and lambs","","4","1","t",2,
+"2","Interprovincial imports of sheep and lambs","","21","1","",2;10,
+"2","International imports of sheep and lambs","","5","1","",,
+"2","Deaths and condemnations of sheep and lambs","","7","6","",,
+"2","Interprovincial exports (net) of sheep and lambs","","11","6","t",3,
+"2","Interprovincial exports of sheep and lambs","","22","6","",3;10,
+"2","International exports of sheep and lambs","","12","6","",,
+"2","Total slaughter of sheep and lambs","","13","6","",,
+"2","Deaths, sheep","","8","7","",,
+"2","Deaths, lambs","","9","7","",,
+"2","Condemnations of sheep and lambs","","10","7","",,
+"2","Federal Provincial Inspected Slaughter (FPIS)","","14","13","",4,
+"2","International imports for slaughter of sheep and lambs","","15","13","",5,
+"2","Provincially inspected slaughter of sheep and lambs","","16","13","",6,
+"2","Commercial slaughter of sheep and lambs, not elsewhere specified","","17","13","",7,
+"2","Sheep and lambs consumed on farms","","18","13","",8,
+"2","Farm sales of sheep and lambs to consumers","","19","13","",9,
+"2","Total supply of sheep and lambs","","1","","",11,
+"2","Total disposition of sheep and lambs","","6","","",11,
+"2","Ending inventory of sheep and lambs","","20","","",1,
+"3","January to June","","1","","",,
+"3","July to December","","2","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3460","Livestock Survey"
+
+"Subject Code","Subject Name"
+"32","Agriculture and food"
+
+"Note ID",Note
+1,"For the January to June period, the beginning inventory is dated January 1 and the ending inventory is dated July 1. For the July to December period, the beginning inventory is dated July 1 and the ending inventory is dated January 1 of the following year. The inventory data for each period cannot be aggregated to make an annual total. The inventory data is a count at a specific point in time."
+2,"A residual is arrived at by taking the number of animals coming to farms within that province minus the number of animals leaving for farming operations outside that province."
+3,"A residual is arrived at by taking the number of animals leaving for farming operations outside that province minus the number of animals coming to farms within that province."
+4,"Slaughterings at federally and/or provincially inspected packing plants, by province of origin."
+5,"Imports of live animals from the United States slaughtered in Canada."
+6,"All provincially inspected slaughter not included in Federal Provincial Inspected Slaughter (FPIS)."
+7,"Commercial slaughter may be inspected based on provincial regulations."
+8,"Sheep and lambs killed and eaten on farms."
+9,"Sheep and lambs killed and sold at the farm gates."
+10,"As of 2006, interprovincial import and export values of sheep and lambs are published as the total value instead of the net value."
+11,"As of 2006, total supply and total disposition of sheep and lambs are calculated using the total interprovincial import and export values instead of the net value."
+
+"Correction ID","Correction Date","Correction Note"

@@ -1,0 +1,9 @@
+Animal,Blood (%live_wt),Bones (%carcass_wt),Meat (%carcass_wt),Fat (%carcass_wt),Notes
+Cattle,3,24.5,56,18.5,
+Hogs,3.69,11.2,59.05,19.2,
+Calves,3,24.5,56,18.5,
+Sheep,4.6,12.82,54.13,34.7,Corrected to carcass weight (except blood)
+Goat,5.7,27.36,63.75,8.89,
+Rabbit,6.75,13.47,82.6,1.78,
+Chicken,7.3,24.26,58.61,14.87,Blood content alligned with the average slaughtered waeight(2.36 kg)
+Turkey,7.2,27,61.5,9,

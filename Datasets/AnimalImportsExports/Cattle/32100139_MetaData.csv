@@ -1,0 +1,67 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Cattle statistics, supply and disposition of cattle","32100139","003-0083","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210013901",,"CURRENT - a cube available to the public and that is current","Annual","2000-01-01","2022-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Supply and disposition of cattle",,""
+"3","Survey date",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Eastern provinces","","2","1","",,
+"1","Western provinces","","10","1","",,
+"1","Atlantic provinces","[1]","3","2","",,
+"1","Quebec","[24]","8","2","",,
+"1","Ontario","[35]","9","2","",,
+"1","Newfoundland and Labrador","[10]","4","3","",,
+"1","Prince Edward Island","[11]","5","3","",,
+"1","Nova Scotia","[12]","6","3","",,
+"1","New Brunswick","[13]","7","3","",,
+"1","Manitoba","[46]","11","10","",,
+"1","Saskatchewan","[47]","12","10","",,
+"1","Alberta","[48]","13","10","",,
+"1","British Columbia","[59]","14","10","",,
+"1","Canada","[11124]","1","","",,
+"2","Beginning inventory of cattle","","2","1","",2;3,
+"2","Calves born","","3","1","",,
+"2","Interprovincial imports of cattle","","4","1","",,
+"2","International imports of cattle","","5","1","",,
+"2","Slaughter of cattle","","7","6","",,
+"2","Interprovincial exports of cattle","","8","6","",,
+"2","International exports of cattle","","9","6","",,
+"2","Deaths and condemnations of cattle","","10","6","",,
+"2","Total supply of cattle","","1","","",,
+"2","Total disposition of cattle","","6","","",,
+"2","Ending inventory of cattle","","11","","",2,
+"3","January to June","","1","","",,
+"3","July to December","","2","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3460","Livestock Survey"
+
+"Subject Code","Subject Name"
+"32","Agriculture and food"
+
+"Note ID",Note
+2,"For the January to June period, the beginning inventory is dated January 1 and the ending inventory is dated July 1. For the July to December period, the beginning inventory is dated July 1 and the ending inventory is dated January 1 of the following year. The inventory data for each period cannot be aggregated to make an annual total. The inventory data is a count at a specific point in time."
+3,"Inventories can also be found in table 32-10-0130."
+
+"Correction ID","Correction Date","Correction Note"
+"1243","2020-03-10","On March 10, 2020, the following corrections were implemented: A correction was made to the number of cattle slaughtered in Quebec and Ontario for the period of January to June 2018. Corrections were made to number of interprovincial movements and births in Saskatchewan and Alberta for the period of January to June 2019. A correction was made to the number of births in Nova Scotia for the period of July to December 2019.",
+
